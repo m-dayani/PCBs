@@ -28,7 +28,7 @@ A collection of previous PCB designs
 
 ### Power Supply
 
-![Image of Power Supply](https://github.com/m-dayani/PCBs/blob/main/misc/power-supply/pics/power-supplies.png?raw=true)
+![Image of Power Supply](https://github.com/m-dayani/PCBs/blob/main/misc/power-supply/pics/4-power-supplies.png?raw=true)
 
 ### Tiny Oscilloscope
 
